@@ -1,0 +1,22 @@
+---
+title: "Template"
+author: "Kamal Neupane"
+output: html_document
+date: "2024-05-01"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### Load libraries
+
+```{r}
+library(tidyverse)
+library(ggplot2)
+library(gganimate)
+```
+
+##### Read in data 
+
+### Add description
