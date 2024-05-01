@@ -1,14 +1,15 @@
 # My-resources
 This is my resource page.
-# R Markdown resources
+# _Useful links_
+## R resources
 
-# Python resources
+## Python resources
 
 # Projects
 
 
 # Collaboration
 
-# Andre's contribution 
+## Andre's contribution 
 
 I made a contribution here
